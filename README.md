@@ -15,6 +15,9 @@ O DevFlow é uma aplicação web desenvolvida para ajudar programadores a organi
 * HTML5
 * CSS3
 * JavaScript
+* React
+* Git
+* TypeScript
 
 ## 🎯 Objetivo do projeto
 
