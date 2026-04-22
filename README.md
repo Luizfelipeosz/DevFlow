@@ -27,9 +27,9 @@ Além disso, o DevFlow reforça a importância da consistência no aprendizado e
 
 ## 📸 Preview
 
-(adicione imagens ou GIF aqui)
+Desenvolvendo...
 
 ## 🔗 Acesso
 
-(adicione o link do projeto online, se tiver)
+Em breve...
 .
