@@ -26,6 +26,10 @@ Este projeto foi desenvolvido com o objetivo de praticar manipulação do DOM, o
 
 Além disso, o DevFlow reforça a importância da consistência no aprendizado e na evolução dentro da programação.
 
+## Atualizações
+
+* Resolução de problemas de re-redenrização.
+
 ## 📸 Preview
 
 Desenvolvendo...
