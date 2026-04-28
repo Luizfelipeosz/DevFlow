@@ -30,6 +30,7 @@ Além disso, o DevFlow reforça a importância da consistência no aprendizado e
 
 * Resolução de problemas de re-redenrização.
 * Login/logout 
+* Proteção de rotas (Private Routes)
 
 ## 📸 Preview
 
