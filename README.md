@@ -29,6 +29,7 @@ Além disso, o DevFlow reforça a importância da consistência no aprendizado e
 ## Atualizações
 
 * Resolução de problemas de re-redenrização.
+* Login/logout 
 
 ## 📸 Preview
 
