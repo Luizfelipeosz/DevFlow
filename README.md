@@ -1,6 +1,6 @@
 # 🧠 DevFlow – Diário de Produtividade para Desenvolvedores
 
-O DevFlow é uma aplicação web desenvolvida para ajudar programadores a organizarem sua rotina de estudos e desenvolvimento, funcionando como um diário de progresso focado em consistência e evolução contínua.
+O DevFlow é uma aplicação web desenvolvida para ajudar programadores a organizarem sua rotina de estudos e desenvolvimento (tanto profissionalmente, quanto pessoalmente), funcionando como um diário de progresso focado em consistência e evolução contínua.
 
 ## 🚀 Funcionalidades
 
