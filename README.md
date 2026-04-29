@@ -6,7 +6,7 @@ O DevFlow é uma aplicação web desenvolvida para ajudar programadores a organi
 
 * Registro diário de tarefas e atividades de desenvolvimento
 * Organização por dias para acompanhamento da rotina
-* Sistema de cores para identificação visual das tarefas
+* Sistema de cores distintas para identificação visual das tarefas
 * Controle de progresso ao longo do tempo
 * Interface simples, intuitiva e focada na produtividade
 
