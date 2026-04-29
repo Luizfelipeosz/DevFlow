@@ -1,6 +1,6 @@
-# 🧠 DevFlow – Diário de Produtividade para Desenvolvedores
+# 🧠 Devyssey – Diário de Produtividade para Desenvolvedores
 
-O DevFlow é uma aplicação web desenvolvida para ajudar programadores a organizarem sua rotina de estudos e desenvolvimento (tanto profissionalmente, quanto pessoalmente), funcionando como um diário de progresso focado em consistência e evolução contínua.
+O Devyssey é uma aplicação web desenvolvida para ajudar programadores a organizarem sua rotina de estudos e desenvolvimento (tanto profissionalmente, quanto pessoalmente), funcionando como um diário de progresso focado em consistência e evolução contínua.
 
 ## 🚀 Funcionalidades
 
@@ -24,7 +24,7 @@ O DevFlow é uma aplicação web desenvolvida para ajudar programadores a organi
 
 Este projeto foi desenvolvido com o objetivo de praticar manipulação do DOM, organização de código e criação de uma aplicação funcional voltada para o dia a dia de desenvolvedores.
 
-Além disso, o DevFlow reforça a importância da consistência no aprendizado e na evolução dentro da programação.
+Além disso, o Devyssey reforça a importância da consistência no aprendizado e na evolução dentro da programação.
 
 ## Atualizações
 
