@@ -47,6 +47,13 @@ Este projeto foi desenvolvido com foco em:
 - Organização estrutural da aplicação
 
 ---
+## 🧠 Aprendizados
+
+- Importância de evitar re-renderizações desnecessárias
+- Estruturação de rotas protegidas em aplicações SPA
+- Organização de estados para manter a aplicação previsível
+
+---
 
 ## 📸 Preview
 
