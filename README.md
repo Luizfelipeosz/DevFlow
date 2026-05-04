@@ -1,42 +1,62 @@
 # 🧠 Devyssey – Diário de Produtividade para Desenvolvedores
 
-O Devyssey é uma aplicação web desenvolvida para ajudar programadores a organizarem sua rotina de estudos e desenvolvimento (tanto profissionalmente, quanto pessoalmente), funcionando como um diário de progresso focado em consistência e evolução contínua.
+O Devyssey é uma aplicação web desenvolvida com React que simula um diário de produtividade voltado para desenvolvedores, permitindo o registro e acompanhamento da evolução diária de estudos e atividades.
+
+A proposta do projeto é aplicar conceitos práticos de desenvolvimento front-end na construção de uma aplicação funcional, com foco em organização, experiência do usuário e boas práticas de código.
+
+---
 
 ## 🚀 Funcionalidades
 
-* Registro diário de tarefas e atividades de desenvolvimento
-* Organização por dias para acompanhamento da rotina
-* Sistema de cores distintas para identificação visual das tarefas
-* Controle de progresso ao longo do tempo
-* Interface simples, intuitiva e focada na produtividade
-* Proteção de rotas (Private Routes)
+- Registro diário de tarefas e atividades
+- Organização por dias para acompanhamento da rotina
+- Identificação visual por cores
+- Controle de progresso ao longo do tempo
+- Proteção de rotas (Private Routes)
+- Sistema básico de autenticação (login/logout)
 
-## 🛠️ Tecnologias utilizadas
+---
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Git
-* TypeScript
-* JSON
+## 🛠️ Tecnologias
 
-## 🎯 Objetivo do projeto
+- React
+- TypeScript
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Git & GitHub
+- Manipulação de dados com JSON
 
-Este projeto foi desenvolvido com o objetivo de praticar manipulação do DOM, organização de código e criação de uma aplicação funcional voltada para o dia a dia de desenvolvedores.
+---
 
-Além disso, o Devyssey reforça a importância da consistência no aprendizado e na evolução dentro da programação.
+## 🎯 Objetivo
 
-## Atualizações
+Este projeto foi desenvolvido com foco em:
 
-* Resolução de problemas de re-redenrização.
-* Login/logout 
-* Desenvolvimento e Upload do Private-Routes.
+- Praticar componentização e organização de código em React
+- Trabalhar gerenciamento de estado
+- Simular regras de negócio comuns (autenticação e controle de acesso)
+- Construir uma aplicação com estrutura próxima a cenários reais
+
+---
+
+## 📈 Evolução do projeto
+
+- Correção de problemas de re-renderização
+- Implementação de autenticação (login/logout)
+- Criação de rotas protegidas (Private Routes)
+- Organização estrutural da aplicação
+
+---
+
 ## 📸 Preview
 
-Desenvolvendo...
+Em desenvolvimento...
+
+---
 
 ## 🔗 Deploy
 
-devyssey.com
+[Devyssey](https://devyssey.com)
+Desenvolvendo...
+
 
