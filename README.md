@@ -9,6 +9,7 @@ O Devyssey é uma aplicação web desenvolvida para ajudar programadores a organ
 * Sistema de cores distintas para identificação visual das tarefas
 * Controle de progresso ao longo do tempo
 * Interface simples, intuitiva e focada na produtividade
+* Proteção de rotas (Private Routes)
 
 ## 🛠️ Tecnologias utilizadas
 
@@ -30,8 +31,7 @@ Além disso, o Devyssey reforça a importância da consistência no aprendizado 
 
 * Resolução de problemas de re-redenrização.
 * Login/logout 
-* Proteção de rotas (Private Routes)
-
+* Desenvolvimento e Upload do Private-Routes.
 ## 📸 Preview
 
 Desenvolvendo...
