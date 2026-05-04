@@ -64,6 +64,5 @@ Em desenvolvimento...
 ## 🔗 Deploy
 
 [Devyssey](https://devyssey.com)
-Desenvolvendo...
 
 
