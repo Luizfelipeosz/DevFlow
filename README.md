@@ -45,7 +45,7 @@ Este projeto foi desenvolvido com foco em:
 - Implementação de autenticação (login/logout)
 - Criação de rotas protegidas (Private Routes)
 - Organização estrutural da aplicação
-
+- Implementação base do Devyssey com API local, tipagem (Log/Goal) e interfaces principais
 ---
 ## 🧠 Aprendizados
 
