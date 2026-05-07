@@ -13,7 +13,7 @@ A proposta do projeto é aplicar conceitos práticos de desenvolvimento front-en
 - Identificação visual por cores
 - Controle de progresso ao longo do tempo
 - Proteção de rotas (Private Routes)
-- Sistema básico de autenticação (login/logout)
+- Sistema de autenticação (login/logout)
 
 ---
 
