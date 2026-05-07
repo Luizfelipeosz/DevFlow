@@ -52,6 +52,7 @@ Este projeto foi desenvolvido com foco em:
 - Importância de evitar re-renderizações desnecessárias
 - Estruturação de rotas protegidas em aplicações SPA
 - Organização de estados para manter a aplicação previsível
+- Diferença entre renderização e re-renderização no React
 
 ---
 
