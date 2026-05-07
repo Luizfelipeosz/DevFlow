@@ -1,7 +1,7 @@
 import { Routes, Route } from 'react-router-dom'
-import Dashboard from '../pages/Dashboard'
-import Logs from '../pages/Logs'
-import Goals from '../pages/Goals'
+import Dashboard from '../../pages/Dashboard'
+import Logs from '../../pages/LogCard'
+import Goals from '../../pages/Goals'
 import Sidebar from './Sidebar'
 
 function AppContent() {
