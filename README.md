@@ -53,6 +53,8 @@ Este projeto foi desenvolvido com foco em:
 - Estruturação de rotas protegidas em aplicações SPA
 - Organização de estados para manter a aplicação previsível
 - Diferença entre renderização e re-renderização no React
+- Estruturação de rotas privadas com React Router
+- Gerenciamento de estado em aplicações React
 
 ---
 
